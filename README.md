@@ -8,6 +8,7 @@ O programa:
 >Exibe os valores no terminal, um por linha.
 
 Conteúdos abordados no projeto:
+
 ✅ Estrutura básica de um programa Java (public class, main)
 
 ✅ Entrada de dados com Scanner
