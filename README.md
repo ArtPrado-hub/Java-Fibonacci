@@ -1,5 +1,5 @@
 # Java-Fibonacci
-ste projeto é um pequeno programa em Java que imprime os primeiros N termos da sequência de Fibonacci, começando por 0 e 1. A lógica é baseada na fórmula clássica de Fibonacci F(n) = F(n-1) + F(n-2).
+Este projeto é um pequeno programa em Java que imprime os primeiros N termos da sequência de Fibonacci, começando por 0 e 1. A lógica é baseada na fórmula clássica de Fibonacci F(n) = F(n-1) + F(n-2).
 O programa:
 >Solicita ao usuário quantos termos deseja exibir.
 
